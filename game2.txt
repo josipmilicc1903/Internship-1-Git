@@ -1,5 +1,5 @@
-Josip ima 0 pobjeda i 0 poraza!
-Marino ima 0 pobjeda i 0 poraza!
+Josip ima 1 pobjeda i 0 poraza!
+Marino ima 0 pobjeda i 1 poraza!
 
 . X O
 O X X
