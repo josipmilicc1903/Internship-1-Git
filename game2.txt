@@ -3,4 +3,4 @@ Marino ima 1 pobjeda i 1 poraza!
 
 . X O
 O X X
-O . .
+O X .
